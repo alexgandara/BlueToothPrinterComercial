@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="300dp"
+            android:orientation="horizontal"
+            android:id="@+id/linearLayout"></LinearLayout>
+
+        <EditText
+            android:id="@+id/editText_Producto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="5dp"
+            android:editable="false"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="Codigo del Producto"
+            android:inputType="textPersonName"
+            android:maxLength="10"/>
+
+
+        <EditText
+            android:id="@+id/editText_Descripcion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/editText_Producto"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="Descripcion del Producto"
+            android:inputType="textPersonName" />
+
+
+
+
+
+        <EditText
+            android:id="@+id/editText_Unidad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/editText_Descripcion"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="Unidad"
+            android:inputType="textPersonName"
+            android:text="NIU" />
+
+
+        <EditText
+            android:id="@+id/editText_Cantidad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/editText_Unidad"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="Cantidad"
+            android:inputType="numberDecimal"
+
+            />
+
+
+
+
+        <EditText
+            android:id="@+id/editText_Precio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/editText_Cantidad"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="Precio"
+            android:inputType="numberDecimal" />
+
+
+        <EditText
+            android:id="@+id/editText_Igv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/editText_Precio"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="IGV"
+            android:inputType="numberDecimal" />
+
+
+
+
+        <Button
+            android:id="@+id/button_Modificar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/editText_Igv"
+
+            android:text="Modificar" />
+
+
+        <Button
+            android:id="@+id/button_Eliminar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/button_Modificar"
+            android:text="Eliminar" />
+
+
+        <Button
+            android:id="@+id/button_Salir"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/button_Eliminar"
+            android:text="Salir" />
+
+
+
+
+    </RelativeLayout>
+
+
+

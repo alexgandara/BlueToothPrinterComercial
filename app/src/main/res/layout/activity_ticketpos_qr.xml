@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="450dp"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout"></LinearLayout>
+
+
+    <EditText
+        android:id="@+id/editText_Linea01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="cabecera 01"
+        android:maxLength="32"
+        android:typeface="monospace"
+        android:textSize="28px"
+        android:inputType="textPersonName"/>
+
+
+
+
+
+    <EditText
+        android:id="@+id/editText_Linea02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="50dp"
+        android:ems="10"
+        android:hint="cabecera 02"
+        android:maxLength="32"
+        android:typeface="monospace"
+        android:textSize="28px"
+        android:inputType="textPersonName"/>
+
+
+    <EditText
+        android:id="@+id/editText_Linea03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="90dp"
+        android:ems="10"
+        android:hint="cabecera 03"
+        android:maxLength="32"
+        android:typeface="monospace"
+        android:textSize="28px"
+        android:inputType="textPersonName"/>
+
+
+
+    <EditText
+        android:id="@+id/editText_Linea04"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="130dp"
+        android:ems="10"
+        android:hint="cabecera 04"
+        android:maxLength="32"
+        android:typeface="monospace"
+        android:textSize="28px"
+        android:inputType="textPersonName"/>
+
+
+    <EditText
+        android:id="@+id/editText_Linea05"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="170dp"
+        android:ems="10"
+        android:hint="cabecera 05"
+        android:maxLength="32"
+        android:typeface="monospace"
+        android:textSize="28px"
+        android:inputType="textPersonName"/>
+
+
+
+    <EditText
+        android:id="@+id/editText_Linea06"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="210dp"
+        android:ems="10"
+        android:hint="cabecera 06"
+        android:maxLength="32"
+        android:typeface="monospace"
+        android:textSize="28px"
+        android:inputType="textPersonName"/>
+
+
+    <EditText
+        android:id="@+id/editText_Linea07"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="250dp"
+        android:ems="10"
+        android:hint="cabecera 07"
+        android:maxLength="32"
+        android:typeface="monospace"
+        android:textSize="28px"
+        android:inputType="textPersonName"/>
+
+
+    <EditText
+        android:id="@+id/editText_Linea08"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="290dp"
+        android:ems="10"
+        android:hint="cabecera 08"
+        android:maxLength="32"
+        android:typeface="monospace"
+        android:textSize="28px"
+        android:inputType="textPersonName"/>
+
+
+
+    <EditText
+        android:id="@+id/editText_Linea09"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="330dp"
+        android:ems="10"
+        android:hint="cabecera 09"
+        android:maxLength="32"
+        android:typeface="monospace"
+        android:textSize="28px"
+        android:inputType="textPersonName"/>
+
+
+
+
+
+
+    <Button
+        android:id="@+id/button_Modificar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="45dp"
+        android:text="Modificar..." />
+
+
+
+
+
+
+
+    <Button
+        android:id="@+id/button_Salir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="2dp"
+        android:text="Salir" />
+
+
+
+
+</RelativeLayout>
+
+
+

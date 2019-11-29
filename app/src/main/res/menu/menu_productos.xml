@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/addDatos_Productos"
+        android:title="Agregar un Producto"></item>
+
+
+    <item
+        android:id="@+id/Salir"
+        android:title="Ir a Documentos"></item>
+
+
+</menu>

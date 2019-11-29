@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="450dp"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout"></LinearLayout>
+
+    <EditText
+        android:id="@+id/editText_Ruc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="5dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="RUC"
+        android:inputType="textPersonName"
+        android:maxLength="15" />
+
+    <EditText
+        android:id="@+id/editText_Razon_Social"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText_Ruc"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Razon Social"
+        android:inputType="textPersonName"
+        android:maxLength="80" />
+
+    <EditText
+        android:id="@+id/editText_Direccion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText_Razon_Social"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Direccion"
+        android:inputType="textPersonName"
+        android:maxLength="60" />
+
+    <EditText
+        android:id="@+id/editText_Correo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText_Direccion"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Correo"
+        android:inputType="textEmailAddress"
+        android:maxLength="60" />
+
+
+
+    <EditText
+        android:id="@+id/editText_Telefono"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText_Correo"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Telefono"
+        android:inputType="textPersonName"
+        android:maxLength="60" />
+
+
+    <Button
+        android:id="@+id/button_Modificar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button_Salir"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="86dp"
+        android:text="Modificar" />
+
+
+    <Button
+        android:id="@+id/button_Eliminar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="105dp"
+        android:text="Eliminar" />
+
+
+    <Button
+        android:id="@+id/button_Salir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:text="Salir" />
+
+
+
+
+</RelativeLayout>
+
+
+

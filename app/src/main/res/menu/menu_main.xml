@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/addDatos"
+        android:title="Agregar Documento"></item>
+
+
+    <item
+        android:id="@+id/addDatos_Notas"
+        android:title="Agregar Notas Cre-Deb."></item>
+
+
+
+    <item
+        android:id="@+id/MainActivity_Clientes"
+        android:title="Mnt. Clientes"></item>
+
+
+    <item
+        android:id="@+id/MainActivity_Productos"
+        android:title="Mnt. Productos"></item>
+
+
+    <item
+        android:id="@+id/MainActivity_Series"
+        android:title="Mnt. Series"></item>
+
+    <item
+        android:id="@+id/Empresa"
+        android:title="Mnt. Empresa"></item>
+
+
+    <item
+        android:id="@+id/Unidades"
+        android:title="Mnt. Unid de Medida"></item>
+
+    <item
+        android:id="@+id/Conf_Impesora"
+        android:title="Conf. Impresora."></item>
+
+
+
+    <item
+        android:id="@+id/Salir"
+        android:title="Salir"></item>
+
+
+</menu>

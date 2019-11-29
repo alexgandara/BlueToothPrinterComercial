@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="450dp"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout"></LinearLayout>
+
+
+    <EditText
+        android:id="@+id/editText_Base01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:ems="10"
+        android:hint="base 01"
+        android:maxLength="32"
+        android:typeface="monospace"
+        android:textSize="28px"
+        android:inputType="textPersonName"/>
+
+
+
+
+    <EditText
+        android:id="@+id/editText_Base02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="50dp"
+        android:ems="10"
+        android:hint="base 02"
+        android:maxLength="32"
+        android:typeface="monospace"
+        android:textSize="28px"
+        android:inputType="textPersonName"/>
+
+
+
+    <EditText
+        android:id="@+id/editText_Base03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="100dp"
+        android:ems="10"
+        android:hint="base 03"
+        android:maxLength="32"
+        android:typeface="monospace"
+        android:textSize="28px"
+        android:inputType="textPersonName"/>
+
+
+
+
+    <EditText
+        android:id="@+id/editText_Base04"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="150dp"
+        android:ems="10"
+        android:hint="base 04"
+        android:maxLength="32"
+        android:typeface="monospace"
+        android:textSize="28px"
+        android:inputType="textPersonName"/>
+
+
+    <EditText
+        android:id="@+id/editText_Base05"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="200dp"
+        android:ems="10"
+        android:hint="base 05"
+        android:maxLength="32"
+        android:typeface="monospace"
+        android:textSize="28px"
+        android:inputType="textPersonName"/>
+
+    <EditText
+        android:id="@+id/editText_Base06"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="250dp"
+        android:ems="10"
+        android:hint="base 06"
+        android:maxLength="32"
+        android:typeface="monospace"
+        android:textSize="28px"
+        android:inputType="textPersonName"/>
+
+
+
+
+
+
+
+    <Button
+        android:id="@+id/button_Modificar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="45dp"
+        android:text="Modificar..." />
+
+
+
+
+
+
+
+    <Button
+        android:id="@+id/button_Salir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="2dp"
+        android:text="Salir" />
+
+
+
+
+</RelativeLayout>
+
+
+

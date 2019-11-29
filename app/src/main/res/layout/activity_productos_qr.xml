@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="450dp"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout"></LinearLayout>
+
+    <EditText
+        android:id="@+id/editText_Producto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="5dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Codigo del Producto"
+        android:inputType="textPersonName"
+        android:maxLength="20" />
+
+    <EditText
+        android:id="@+id/editText_Descripcion_Producto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText_Producto"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Descripcion Producto"
+        android:inputType="textPersonName"
+        android:maxLength="80" />
+
+    <Spinner
+        android:id="@+id/spinner_Unidades"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:prompt="@string/spinner_title"
+        android:layout_below="@+id/editText_Descripcion_Producto"
+
+        />
+
+    <EditText
+        android:id="@+id/editText_Unidad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/spinner_Unidades"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Unidad"
+        android:inputType="textPersonName"
+        android:maxLength="3" />
+
+
+
+
+
+    <EditText
+        android:id="@+id/editText_Precio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText_Unidad"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Precio"
+        android:inputType="numberDecimal"
+        android:maxLength="60" />
+
+    <EditText
+        android:id="@+id/editText_Precio_Mayoreo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText_Precio"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Precio Mayoreo"
+        android:inputType="numberDecimal"
+        android:maxLength="60" />
+
+
+
+    <EditText
+        android:id="@+id/editText_igv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText_Precio_Mayoreo"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Porcentaje de IGV"
+        android:inputType="numberDecimal"
+        android:maxLength="60" />
+
+    <EditText
+        android:id="@+id/editText_existencia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText_igv"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Existencia"
+        android:inputType="numberDecimal"
+        android:maxLength="60" />
+
+
+
+
+
+
+    <Button
+        android:id="@+id/button_Modificar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button_Salir"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="45dp"
+        android:text="Modificar" />
+
+
+    <Button
+        android:id="@+id/button_Eliminar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="61dp"
+        android:text="Eliminar" />
+
+
+    <Button
+        android:id="@+id/button_Salir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:text="Salir" />
+
+
+
+
+</RelativeLayout>
+
+
+

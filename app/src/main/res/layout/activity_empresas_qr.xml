@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="450dp"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout"></LinearLayout>
+
+    <EditText
+        android:id="@+id/editText_Razon_Social"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="5dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Razon Social"
+        android:inputType="textPersonName"/>
+
+    <EditText
+        android:id="@+id/editText_Ruc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="50dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="RUC"
+        android:inputType="textPersonName"
+        android:maxLength="11" />
+
+
+    <EditText
+        android:id="@+id/editText_Direccion1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="95dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Direccion Fiscal"
+        android:inputType="textPersonName"
+        android:maxLength="120" />
+
+
+
+    <EditText
+        android:id="@+id/editText_Tipo_Impresora"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="140dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Tipo Impresora"
+        android:inputType="textPersonName"
+        android:maxLength="60" />
+
+
+
+
+
+
+
+    <EditText
+        android:id="@+id/editText_ICBPER"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="185dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="ICBPER"
+        android:inputType="textPersonName"
+        android:maxLength="60" />
+
+
+    <EditText
+        android:id="@+id/editText_Licencia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="230dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Licencia"
+        android:inputType="textPersonName"
+        android:maxLength="60" />
+
+
+
+
+
+    <Button
+        android:id="@+id/button_TicketPos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="180dp"
+        android:text="Ticket POS Cabecera" />
+
+
+    <Button
+        android:id="@+id/button_ApiKey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="95dp"
+        android:text="APIs Keys" />
+
+
+
+    <Button
+        android:id="@+id/button_TicketPos_Buttom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="138dp"
+        android:text="Ticket POS Base" />
+
+
+    <Button
+        android:id="@+id/button_Modificar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp"
+        android:text="Modificar" />
+
+
+
+
+
+
+
+    <Button
+        android:id="@+id/button_Salir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="5dp"
+        android:text="Salir" />
+
+
+
+
+</RelativeLayout>
+
+
+

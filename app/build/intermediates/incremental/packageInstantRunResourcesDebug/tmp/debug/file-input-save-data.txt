@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Tue Oct 08 22:14:33 PET 2019
+2.base=/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/assets/debug
+0.path=demo.bmp
+2.baseType=DIRECTORY
+3.base=/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/assets/debug
+2.set=ASSET
+1.path=logo.png
+4.base=/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/assets/debug
+count=5
+2.path=aquiLogo.png
+4.set=ASSET
+3.path=logoFG.png
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=factura global logo3ch.png
+1.baseType=DIRECTORY
+0.base=/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/assets/debug
+4.baseType=DIRECTORY
+0.set=ASSET

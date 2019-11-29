@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="300dp"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout"></LinearLayout>
+
+
+    <Spinner
+        android:id="@+id/spinner_Series"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:prompt="@string/spinner_title"
+
+        />
+
+
+    <EditText
+        android:id="@+id/editText_Serie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="70dp"
+        android:editable="false"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Serie"
+        android:inputType="textPersonName"
+
+        android:maxLength="4"/>
+
+
+
+
+    <Spinner
+        android:id="@+id/spinner_Clientes"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:prompt="@string/spinner_title"
+        android:layout_marginTop="130dp"
+
+        />
+
+    <EditText
+        android:id="@+id/editText_Folio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="45dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Folio"
+        android:inputType="number"
+        android:text="0"
+        android:visibility="invisible" />
+
+    <EditText
+        android:id="@+id/editText_Ruc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="200dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="RUC"
+        android:inputType="textPersonName"
+        android:text="00000000"
+        android:maxLength="11"/>
+
+
+    <EditText
+        android:id="@+id/editText_RazonSocial"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="250dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Nombre/Razon Social"
+        android:inputType="textPersonName"
+        android:maxLength="60"/>
+
+
+    <EditText
+        android:id="@+id/editText_Direccion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="300dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Direccion"
+        android:inputType="textPersonName"
+        android:maxLength="60"/>
+
+    <EditText
+        android:id="@+id/editText_Moneda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="350dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Direccion"
+        android:inputType="textPersonName"
+        android:text="PEN"
+        android:maxLength="3"/>
+
+
+    <EditText
+        android:id="@+id/editText_Serie_Rel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText_Moneda"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Serie Relacionada"
+        android:inputType="textPersonName"
+        android:maxLength="4" />
+
+    <EditText
+        android:id="@+id/editText_Folio_Rel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText_Serie_Rel"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Folio Relacionado"
+        android:inputType="number" />
+
+
+
+
+
+    <Button
+        android:id="@+id/button_Agregar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText_Folio"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="400dp"
+        android:text="Agregar" />
+
+
+
+</RelativeLayout>

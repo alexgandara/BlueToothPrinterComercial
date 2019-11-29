@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/menu_menu_search.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/menu/menu_search.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_password_series.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_password_series.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_password_productos.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_password_productos.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_productos_qr.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_productos_qr.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_apis_key.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_apis_key.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_main_cierre.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_main_cierre.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/drawable-xxhdpi_logo.png.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_main_series_qr.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_main_series_qr.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_device_list_doctos_archivadas.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/device_list_doctos_archivadas.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_clientes_qr.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_clientes_qr.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_detalle.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_detalle.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_device_list_doctos.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/device_list_doctos.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_sincronizar.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_sincronizar.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_inserta_detalle.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/inserta_detalle.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_custom_title.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/custom_title.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_inserta_datos.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/inserta_datos.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/menu_menu_unidades.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/menu/menu_unidades.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/menu_menu_clientes.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/menu/menu_clientes.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/drawable-hdpi_app_icon.png.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/drawable-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_insertar_serie.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/insertar_serie.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_device_name.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/menu_menu_productos.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/menu/menu_productos.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/drawable-hdpi_logo.png.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_inserta_datos_notas.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/inserta_datos_notas.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_unidades_qr.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_unidades_qr.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_main_unidades_qr.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_main_unidades_qr.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_actualizar_desde_verp.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/actualizar_desde_verp.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/menu_menu_main.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/menu_menu_detalle.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/menu/menu_detalle.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/drawable_app_icon.png.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/drawable/app_icon.png"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_device_list.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_main_activity.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_main_productos_qr.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_main_productos_qr.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/menu_menu_series.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/menu/menu_series.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_main2_archivadas.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/main2_archivadas.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_main_clientes_qr.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_main_clientes_qr.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_modificar.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_modificar.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_message.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_main.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/menu_menu_configurar_impresora.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/menu/menu_configurar_impresora.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_insertar_serie_qr.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/insertar_serie_qr.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_ticketpos_qr_base.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_ticketpos_qr_base.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_insertar_clientes_qr.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/insertar_clientes_qr.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_password_empresas.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_password_empresas.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_main2.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/main2.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_main_alfil.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_main_alfil.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_insertar_unidades_qr.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/insertar_unidades_qr.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_empresas_qr.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_empresas_qr.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_main_detalle.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_main_detalle.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_activity_ticketpos_qr.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/activity_ticketpos_qr.xml"
+    },
+    {
+        "merged": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/build/intermediates/res/merged/release/layout_insertar_productos_qr.xml.flat",
+        "source": "/Volumes/hd2/AndroidStudioProjects/BlueToothPrinterComercial/app/src/main/res/layout/insertar_productos_qr.xml"
+    }
+]
